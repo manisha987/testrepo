@@ -1,1 +1,1 @@
-I am going to learn git and git fetch command
+I am going to learn git and git fetch/pull command
